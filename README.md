@@ -2,7 +2,7 @@
 *Electronics Technology*
 
 
-# Project 1: Guitar Amplifier
+# Project 1: 10W Guitar Amplifier
 <img src="guitarampfront.jpg" alt="Front face of the guitar amplifier" width="200"/>
 
 
